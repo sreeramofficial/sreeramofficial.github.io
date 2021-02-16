@@ -1,8 +1,27 @@
 ## Project Next
 
-Spin up a React/Typescript//NextJS Boilerplate project instantly with Material UI, Mongo DB, Jest, Storybook, PWA, TWA, SEO, GTM, Github Actions, Auth0 and Stripe support. 
+Spin up a React/Typescript//NextJS Boilerplate project instantly. 
 
-Set the following environment variables and you are good to go.
+### Features
+
+- React
+- TypeScript
+- Next JS
+- Material UI
+- Mongo DB
+- Jest
+- Storybook
+- PWA
+- TWA
+- SEO
+- GTM
+- Github Actions
+- Auth0
+- Stripe
+
+### Setup
+
+Fork the repo or sandbox and set the following environment variables and you are good to go.
 
 - AUTH0_CLIENT_SECRET
 - MONGO_URL
