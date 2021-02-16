@@ -18,6 +18,8 @@ Spin up a React/Typescript//NextJS Boilerplate project instantly.
 - Github Actions
 - Auth0
 - Stripe
+- Sentry
+- New Relic
 
 ### Setup
 
