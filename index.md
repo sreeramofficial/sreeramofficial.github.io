@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+# Hello, I am Sreeram!
 
-You can use the [editor on GitHub](https://github.com/sreeramofficial/sreeramofficial.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### *07 August, 2020, London*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi there reader! I am Sreeram. Friends call me Siri or Sree. I am a Web Engineer and this is my personal website. I am a Frontend Tech Lead at Delivery Hero in Berlin, Germany. I am also the founder of jsDrome. I am also a trainer and a photographer. I travel regularly and have so far covered 14 countries and several cities. I will be covering a lot more over the next years.
+
+I consider myself an artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency.
+
+This is my personal website. I write about things I find interesting, the places I visit, the people I meet, the photos I take, the food I cook, the cuisines I try, the decisions I take, and many other things. I belive that if even one gets inspired, its a victory.
+
+## Get in touch
+
+If you'd like to work with me/attend my trainings/seek career advice/have a coffee, just find me at LinkedIn or Instagram at @sreeramofficial.
+
+*Dankeschön!*
+
 
 ### Markdown
 
