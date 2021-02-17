@@ -1,4 +1,4 @@
-## Project Next
+# Project Next
 
 Spin up a React/Typescript//NextJS Boilerplate project instantly. 
 
