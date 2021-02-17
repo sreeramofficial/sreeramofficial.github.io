@@ -6,22 +6,7 @@ Spin up a React/Typescript//NextJS Boilerplate project instantly.
 
 ### Features
 
-- React
-- TypeScript
-- Next JS
-- Material UI
-- Mongo DB
-- Jest
-- Storybook
-- PWA
-- TWA
-- SEO
-- GTM
-- Github Actions
-- Auth0
-- Stripe
-- Sentry
-- New Relic
+- React, TypeScript, Next JS, Material UI, Mongo DB, Jest, Storybook, PWA, TWA, SEO, GTM, Github Actions, Auth0, Stripe, Sentry, New Relic.
 
 ### Setup
 
