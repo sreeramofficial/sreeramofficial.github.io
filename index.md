@@ -1,5 +1,7 @@
 # Project Next
 
+## Description
+
 Spin up a React/Typescript//NextJS Boilerplate project instantly. 
 
 ### Features
